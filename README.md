@@ -11,3 +11,8 @@
 
 # Правила пользования
 Открыть файл с помощью нужного компилятора (можно скопировать текст в онлайн), сделать откалдку и компиляцию программы, проверить на тестах.
+
+![image](https://github.com/Vitalyushik/Lab-6/assets/146360520/d4921333-6c7c-4e89-b5ea-c6c7e89f268d)
+![image](https://github.com/Vitalyushik/Lab-6/assets/146360520/f7635331-e160-4bf3-b1fb-bd88fedeeeb9)
+![image](https://github.com/Vitalyushik/Lab-6/assets/146360520/e484cbeb-59d8-408f-a2a7-611790a610bf)
+
